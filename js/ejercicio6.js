@@ -8,7 +8,7 @@ alert("Ingrese dos números");
 let num1 = parseInt( prompt("Ingrese el primer número"));
 let num2 = parseInt(prompt("Ingrese el segundo número"));
 if(num1>num2){
-    document.write(num1);
+    document.write("El número "+num1+" es el número más grande");
 }else{
-    document.write(num2);
+    document.write("El número "+num2+" es el número más grande");
 }
