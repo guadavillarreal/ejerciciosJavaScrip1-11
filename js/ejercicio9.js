@@ -8,10 +8,6 @@ Ejemplo:    input: Hola mundo
 //var x = "Mozilla";
 //let x = prompt("Ingrese una frase")
 //let empty = " ";
-const casa = casa ;
-casa.style.backgroundColor = blue ;
-document.write(casa);
-casa.style.backgroundColor
 /*document.write("Mozilla is " + x.length + " code units long"+"<br>");
 /* "Mozilla is 7 code units long" */
 
