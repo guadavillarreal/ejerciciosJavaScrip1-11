@@ -6,11 +6,14 @@ Ejemplo:    input: Hola mundo
 
 //let frase = prompt("Ingrese una frase");
 //var x = "Mozilla";
-let x = prompt("Ingrese una frase")
-let empty = " ";
-
-document.write("Mozilla is " + x.length + " code units long"+"<br>");
+//let x = prompt("Ingrese una frase")
+//let empty = " ";
+const casa = casa ;
+casa.style.backgroundColor = blue ;
+document.write(casa);
+casa.style.backgroundColor
+/*document.write("Mozilla is " + x.length + " code units long"+"<br>");
 /* "Mozilla is 7 code units long" */
 
-document.write("The empty string has a length of " + empty.length);
+/*document.write("The empty string has a length of " + empty.length);*/
 /* "The empty string has a length of 0" */
