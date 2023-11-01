@@ -27,7 +27,7 @@ for (let index = 0; index <= cantidad; index++) {
     frase.charAt(index) === "u" ||
     frase.charAt(index) === "ú"
   ){
-    console.log(frase.charAt(index));
+
     document.write("<p>"+ frase.charAt(index)+"</p>");
     }
     else{
